@@ -1,3 +1,3 @@
 #Curso Digital: Git estado
 
-#Salvando modificações....
+#Salvando modificações, para aprender novos comandos do GIT
